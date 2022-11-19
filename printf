@@ -1,0 +1,11 @@
+int main()
+
+{
+	int b=8;
+	int c=9;
+	
+	printf("Value of b is:%d",b);
+	printf("\nValue of c is:%d",c);
+
+	return 0;
+}
